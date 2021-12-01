@@ -1,0 +1,3 @@
+Karen Oliveira - Utilizando o editor VIM
+SENAC Tatuapé
+Utilizando os comando básicos do VIM...
